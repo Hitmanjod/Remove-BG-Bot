@@ -7,7 +7,7 @@ START_TEXT = """Hello {},
 I am a media background remover bot. \
 Send me a photo I will send the photo without background.
 
-Made by @FayasNoushad"""
+Made by @iMediaUniverse"""
 
 HELP_TEXT = """--**More Help**--
 
@@ -15,13 +15,13 @@ HELP_TEXT = """--**More Help**--
 - I will download it
 - I will send the photo or video without background
 
-Made by @FayasNoushad"""
+Made by @iMediaUniverse"""
 
 ABOUT_TEXT = """**About Me**
 
 - **Bot :** `Backround Remover Bot`
-- **Developer :** [GitHub](https://github.com/FayasNoushad) | [Telegram](https://telegram.me/FayasNoushad)
-- **Source :** [Click here](https://github.com/FayasNoushad/Remove-BG-Bot)
+- **Developer :** [Telegram](https://telegram.me/Mehitmannub)
+- **Source :** [Click here](https://github.com)
 - **Language :** [Python 3](https://python.org)
 - **Library :** [Pyrogram](https://pyrogram.org)"""
 
@@ -33,7 +33,7 @@ START_BUTTONS = InlineKeyboardMarkup(
             InlineKeyboardButton('Close', callback_data='close')
         ],
         [
-            InlineKeyboardButton('Feedback', url='https://telegram.me/FayasNoushad')
+            InlineKeyboardButton('Feedback', url='https://telegram.me/iMediaSupport')
         ]
     ]
 )
@@ -61,7 +61,7 @@ ABOUT_BUTTONS = InlineKeyboardMarkup(
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton('Join Channel', url='https://telegram.me/FayasNoushad')
+            InlineKeyboardButton('Join Channel', url='https://telegram.me/iMediaSupport')
         ]
     ]
 )
